@@ -1,4 +1,4 @@
-# icloud-shared-albums-backup
+# icloud-private-shared-albums-downloader
 
 Download photos and videos from **private (non-public) iCloud Shared Albums** — the kind shared with specific invited people, as opposed to a public "Shared Album website" link.
 
@@ -71,4 +71,4 @@ Happy to see this cleaned up further or adapted into `pyicloud`/`icloudpd` prope
 
 ## License
 
-MIT (or add whichever license you prefer here)
+[MIT](LICENSE)
